@@ -1,0 +1,34 @@
+.trRow {
+  border-bottom: 1rem lightgreen solid;
+  background-color: grey;
+}
+.dropSearch {
+  width: 10rem;
+}
+.trTable {
+  margin-left: 155px;
+  margin-top: -11px;
+}
+.cardcontent {
+  margin-right: 20px !important;
+  display: inline;
+  max-height: 20%;
+}
+.description {
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+}
+.header {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.meta {
+  background-color: grey;
+}
+.case-action-container {
+  background-color: lightblue;
+  width: 20%;
+  height: 100%;
+  border: 5px white solid;
+  float: left;
+}
